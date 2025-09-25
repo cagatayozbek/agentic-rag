@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+.env
+.env.*
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+
+*.mmd
+graph_diagram.png
+
+scraped_docs/
+
+
